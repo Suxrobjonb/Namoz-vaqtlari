@@ -1,0 +1,21 @@
+*{
+      box-sizing: border-box;
+      list-style-type: none;
+      text-decoration: none;
+}
+
+body {
+      background-color: black;
+}
+
+.site__clock {
+      text-align: center;
+      font-size: 56px;
+      font-family: 'Courier New', Courier, monospace;
+      color: #fff;
+}
+
+.site__list-item {
+      font-size: 39px;
+      color: #fff;
+}
